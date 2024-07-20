@@ -16,7 +16,8 @@
 bash initdir-raspberry.sh pi3
 ```
 ## 效果图：
-![pi1~3](https://github.com/UiLgNoD-lIaMtOh/virtual-qemu-raspberry-script/assets/144557489/6ec39a7f-e718-4701-8044-9a55d2aae5b5)
+![pi1~3](https://github.com/user-attachments/assets/fc845fea-afe1-4a15-a9bb-f4750b64fb08)
+
 
 ## 描述：
 本脚本依赖以下包，你可能需要自己安装，我可以提供支持部分系统的命令，但是其他系统，要靠你自己啊
@@ -47,15 +48,19 @@ bash initdir-raspberry.sh pi1
 ### pi1 
 #### ssh 端口转发：22 -> 8023，需要开启虚拟机树莓派SSH服务，但是pi1似乎开启ssh有问题，目前我还不理解。
 #### vnc 端口开放：5903
-![pi1](https://github.com/UiLgNoD-lIaMtOh/virtual-qemu-raspberry-script/assets/144557489/0eb5e396-1722-43da-b877-1b221667a847)
+![pi1](https://github.com/user-attachments/assets/ad2c1858-8d83-4435-97c5-70e75b87821b)
+
 ### pi2 
 #### ssh 端口转发：22 -> 8024，需要开启虚拟机树莓派SSH服务
 #### vnc 端口开放：5904
-![pi2](https://github.com/UiLgNoD-lIaMtOh/virtual-qemu-raspberry-script/assets/144557489/b9917973-4817-4111-9a33-ae3e162aefdf)
+![pi2](https://github.com/user-attachments/assets/51ea224a-91ec-4d9d-a4bf-9b85b7ca411d)
+
+
 ### pi3 
 #### ssh 端口转发：22 -> 8025，需要开启虚拟机树莓派SSH服务
 #### vnc 端口开放：5905
-![pi3](https://github.com/UiLgNoD-lIaMtOh/virtual-qemu-raspberry-script/assets/144557489/551c214a-9de6-43da-911c-e5f65c86583e)
+![pi3](https://github.com/user-attachments/assets/fe4b2b4d-2a55-4c42-b89c-a1923ccf9cac)
+
 
 
 ## 参考&感谢
