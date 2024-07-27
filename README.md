@@ -16,7 +16,7 @@
 bash initdir-raspberry.sh pi3
 ```
 ## 效果图：
-![pi1~3](https://github.com/user-attachments/assets/fc845fea-afe1-4a15-a9bb-f4750b64fb08)
+![image](assets/00.jpeg)
 
 
 ## 描述：
@@ -48,18 +48,18 @@ bash initdir-raspberry.sh pi1
 ### pi1 
 #### ssh 端口转发：22 -> 8023，需要开启虚拟机树莓派SSH服务，但是pi1似乎开启ssh有问题，目前我还不理解。
 #### vnc 端口开放：5903
-![pi1](https://github.com/user-attachments/assets/ad2c1858-8d83-4435-97c5-70e75b87821b)
+![image](assets/01.jpeg)
 
 ### pi2 
 #### ssh 端口转发：22 -> 8024，需要开启虚拟机树莓派SSH服务
 #### vnc 端口开放：5904
-![pi2](https://github.com/user-attachments/assets/51ea224a-91ec-4d9d-a4bf-9b85b7ca411d)
+![image](assets/02.jpeg)
 
 
 ### pi3 
 #### ssh 端口转发：22 -> 8025，需要开启虚拟机树莓派SSH服务
 #### vnc 端口开放：5905
-![pi3](https://github.com/user-attachments/assets/fe4b2b4d-2a55-4c42-b89c-a1923ccf9cac)
+![image](assets/03.jpeg)
 
 
 
